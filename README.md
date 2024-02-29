@@ -9,5 +9,5 @@ The app will be deployed locally on a kubernetes kind cluster.
 
 ## Kubernetes Components
 
-- [Deployment](https://kubernetes.io/docs/concepts/services-networking/service/)
-- [Service](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
